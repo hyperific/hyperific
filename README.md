@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyperific
 - 👀 I’m interested in ... game development, desktop and mobile applications
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... small video game project
 - 📫 How to reach me ...
 
