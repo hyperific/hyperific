@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... small video game project
 - 📫 How to reach me ...
 
-<!---
-hyperific/hyperific is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+--------
+
+🧰 Toolbox
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="Python Logo" width="50" height="50"/> 
+--------
