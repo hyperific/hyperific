@@ -8,7 +8,8 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperific&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Hyperific's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperific&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperific&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyperific's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperific&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 --------
 
 🧰 Toolbox
